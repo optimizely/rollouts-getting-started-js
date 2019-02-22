@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "description": "A sample application to quickly understand how to get started with Optimizely Rollouts",
   "main": "app.js",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "requests": "^0.2.2"
+  }
 }

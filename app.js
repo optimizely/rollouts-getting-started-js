@@ -2,6 +2,8 @@
 // 1. npm install
 // 2. node app.js
 
+const request = require('request-promise');
+
 /**
  * getDailyDeal
  * @param {Object} visitor - a visitor to the store
