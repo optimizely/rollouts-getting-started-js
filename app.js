@@ -1,8 +1,6 @@
 // Daily Deal
-// npm install --save @optimizely/optimizely-sdk request request-promise
-
-const request = require('request-promise');
-
+// 1. npm install
+// 2. node app.js
 
 /**
  * getDailyDeal
